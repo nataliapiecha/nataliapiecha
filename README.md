@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nataliapiecha
 - 👀 I’m interested in making connections 
-- 🌱 I’m currently learning Python, C and JavaScript  
+- 🌱 I’m currently learning Python, JavaScript, HTML and CSS 
 - 💞️ I’m ready to collaborate 
 - 📫 How to reach me - connect with me on LI https://www.linkedin.com/in/natalia-piecha/
 
